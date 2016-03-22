@@ -5,7 +5,7 @@
     <customproperties/>
     <layer-tree-group expanded="1" checked="Qt::Checked" name="Progetto Mascetti Sparber">
       <customproperties/>
-      <layer-tree-layer expanded="1" checked="Qt::Checked" id="Municipalities20160317143005092" name="Provincia">
+      <layer-tree-layer expanded="0" checked="Qt::Checked" id="Municipalities20160317143005092" name="Provincia">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-group expanded="1" checked="Qt::Checked" name="Posti letto">
@@ -60,8 +60,8 @@
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
     <legendgroup open="true" checked="Qt::Checked" name="Progetto Mascetti Sparber">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Provincia" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="Provincia" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
           <legendlayerfile isInOverview="0" layerid="Municipalities20160317143005092" visible="1"/>
         </filegroup>
       </legendlayer>
